@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/angleterre-satw/remaking-repository/blob/c64308465d8f4d4e417cbabab110794a66531edb/Untitled40_20260907232952.png" width="300">
+  <img src="https://github.com/angleterre-satw/remaking-repository/blob/c64308465d8f4d4e417cbabab110794a66531edb/Untitled40_20260907232952.png" width="400">
 </p>
 
 <p align="center">
