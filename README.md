@@ -13,3 +13,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=angleterre-satw&label=splendid%20guests&color=red&style=flat" alt="splendid guests">
 </p>
+
+<p align="center">
+  <img src="https://github.com/angleterre-satw/remaking-repository/blob/58c67024536be25947aa0e027cf55c56506939df/Untitled18_20261123133055.png" width="300">
+</p>
